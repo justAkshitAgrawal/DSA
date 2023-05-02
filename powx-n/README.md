@@ -24,7 +24,7 @@
 </pre>
 
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraints: </strong></p>
 
 <ul>
 	<li><code>-100.0 &lt; x &lt; 100.0</code></li>
