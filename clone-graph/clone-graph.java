@@ -20,7 +20,8 @@ class Node {
 
 class Solution {
     public Node cloneGraph(Node node) {
-        if (node == null) return null;
+        if (node == null)
+            return null;
         Node copy = new Node(node.val);
         Node[] vis = new Node[101];
         Arrays.fill(vis, null);
